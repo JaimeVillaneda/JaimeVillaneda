@@ -7,6 +7,4 @@
 😄 Pronombres: [Él]
 ⚡ Dato curioso: [Daria un ojo por conocimiento, asi como lo hizo Odin jejejeje]
 
-JaimeVillaneda/JaimeVillaneda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
